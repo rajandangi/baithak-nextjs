@@ -3,9 +3,11 @@
 
 Baiṭhak, meaning 'gathering' in Nepali, is a video calling app that connects people across the globe with simplicity and warmth. Designed to replicate the intimacy of a Nepali sitting-room, Baithak is the perfect venue for everything from family reunions to professional meetings.
 
+This application leverages the power of [Stream's video API for React](https://getstream.io/video/docs/react/) to provide high-quality, real-time video calling functionality.
+
 **Key Features:**
 
-- **Crystal-Clear Communication:** Enjoy high-quality video and audio for an in-person experience.
+- **Crystal-Clear Communication:** Enjoy high-quality video and audio for an in-person experience, powered by Stream's video API.
 - **User-Friendly:** An easy-to-navigate interface makes connecting effortless.
 - **Every Device, Every Time:** Join from any device, creating a seamless digital baithak wherever you are.
 - **Culturally Rich:** Infused with Nepali aesthetic, Baithak celebrates its heritage.
@@ -40,10 +42,4 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+To learn more about Stream's video API for React, visit the [official documentation](https://getstream.io/video/docs/react/).
